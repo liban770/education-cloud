@@ -1,0 +1,6 @@
+{
+  "name": "AetherEdu Cloud - Enterprise Education Management",
+  "description": "Cloud-based education management platform featuring role-based dashboards, encrypted student data storage (AES-256), attendance tracking, gradebook, and audit compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
